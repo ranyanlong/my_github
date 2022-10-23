@@ -2,9 +2,7 @@
 我还是比你厉害 son did
 我还是比你厉害 father did
 son 修改1
-<<<<<<< HEAD
 
 ssh添加
-=======
 跨团队协作 第二次修改
->>>>>>> 8ff9b6e08308e590275e898de6e27cade0aa533a
+
